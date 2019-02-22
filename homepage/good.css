@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#content{
+	margin-top: 10px;
+	display: flex;
+	width: 80%;
+}
+#sidebar{
+	padding-left: 10px;
+	border-left: solid;
+	border-color: #baddff;
+	flex-grow: 1;
+	width: 50%;
+	background-color: #e5f8ff;
+}
+#left{
+	padding-right: 10px;
+	flex-grow: 2;
+}
+h1{
+	/*border: solid;*/
+	background-image: linear-gradient(to right, #2dcaff , #b5ecff);
+	/*border-radius: 25px;*/
+	font-size: 330%;
+	margin: 0px;
+	color: white;
+	padding: 100px;
+}
+#line{
+	margin-top: 20px;
+	/*width: 80%;*/
+	border-bottom: solid;
+	border-color: #baddff;
+}
+.section{
+	/*width: 50%;*/
+}
+#me{
+	float: left;
+	width: 280px;
+}
+#history_img{
+	float: right;
+	width: 240px;
+}
+#dinosaur{
+	float: left;
+	width: 130px;
+}
+#reference{
+	font-size: small;
+}

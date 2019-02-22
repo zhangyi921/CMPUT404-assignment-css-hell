@@ -1,5 +1,5 @@
 body { color: Black;
-    background: White;
+    background: #fff5e5;
     margin-right: 15%;
     margin-left: 15%;
     font-family: "Times New Roman", serif;
@@ -7,7 +7,8 @@ body { color: Black;
 
 p {text-indent: 3%;
 margin-top: 0.25em;
-margin-bottom: 0.25em; }
+margin-bottom: 0.25em; 
+border-style: solid;}
 
 h1, h2, h3, h4, h5, h6 {text-align: center; font-style: normal;
 font-weight: normal; line-height: 1.5; margin-top: .5em; margin-bottom:
