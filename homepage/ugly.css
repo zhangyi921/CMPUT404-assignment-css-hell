@@ -1,0 +1,52 @@
+body{
+	margin: 0px;
+}
+#content{
+	margin-top: 10px;
+	display: flex;
+	width: 80%;
+}
+#sidebar{
+	border-left: solid;
+	border-color: red;
+	flex-grow: 1;
+	width: 50%;
+	background-color: #e9ff00;
+}
+#left{
+	flex-grow: 2;
+}
+h1{
+	/*border: solid;*/
+	background-image: linear-gradient(to right, green , red);
+	/*border-radius: 25px;*/
+	font-size: 330%;
+	margin: 0px;
+	color: white;
+	padding: 100px;
+}
+#line{
+
+	border-style: dashed;
+	border-color: black;
+}
+.section{
+	/*width: 50%;*/
+	border: solid;
+}
+#me{
+	float: left;
+	width: 280px;
+}
+#history_img{
+	float: right;
+	width: 240px;
+}
+#dinosaur{
+	float: left;
+	width: 130px;
+}
+#reference{
+	font-size: small;
+	border: solid;
+}
