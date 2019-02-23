@@ -19,7 +19,7 @@ body{
 }
 h1{
 	/*border: solid;*/
-	background-image: linear-gradient(to right, green , red);
+	background-image: radial-gradient(#f600ff, #da8ffc , #f600ff);
 	/*border-radius: 25px;*/
 	font-size: 330%;
 	margin: 0px;
