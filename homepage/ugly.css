@@ -9,6 +9,7 @@ body{
 #sidebar{
 	border-left: solid;
 	border-color: red;
+	border-style: dashed;
 	flex-grow: 1;
 	width: 50%;
 	background-color: #e9ff00;
