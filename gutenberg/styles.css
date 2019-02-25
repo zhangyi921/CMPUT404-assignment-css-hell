@@ -11,8 +11,8 @@ margin-bottom: 0.25em;
 border-style: solid;}
 
 h1, h2, h3, h4, h5, h6 {text-align: center; font-style: normal;
-font-weight: normal; line-height: 1.5; margin-top: .5em; margin-bottom:
-.5em;}
+font-weight: bold; line-height: 1.5; margin-top: .5em; margin-bottom:
+.5em; color: chartreuse;}
 
 h1 {font-size: 200%;}
 h2 {font-size: 175%;}
